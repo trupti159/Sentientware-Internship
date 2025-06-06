@@ -42,4 +42,4 @@ This project focuses on analyzing the Titanic dataset to predict passenger survi
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/subhasistop1/internship-assignment.git
+   git clone https://github.com/trupti159/Sentientware-Internship.git
